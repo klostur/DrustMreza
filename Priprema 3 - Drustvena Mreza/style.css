@@ -1,0 +1,58 @@
+body{
+	background-color: #e9ecee;
+}
+.sidebar{
+	width: 20%;
+	height: 100%;
+	background-color: white;
+	margin: 15px;
+	float: left;
+}
+.sidebar-img{
+	text-align: center;
+}
+#profilna{
+	display: block;
+	width: 100%;
+	margin: auto;
+}
+h2{
+	text-align: center;
+	color: #8cb8ea;
+}
+
+#sidebar-home{
+	display: inline-block;
+	margin-top: 25px;
+	margin-left: 40px;
+	font-size: 20px;
+	color: #c9cbcd;
+	font-weight: 500;
+}
+.sidebar-home-img{
+	width: 70px;
+	padding-left: 40px;
+}
+.sidebar-home-img:hover{
+	 transform: scale(1.2);
+}
+#kraj{
+	padding-bottom: 100%;
+}
+#box1 {
+	float: left;
+}
+#fotka-komp{
+	width: 60%;
+	margin:200px 10px auto 50px;
+}
+.dugme{
+	margin:10px 10px 10px 50px;
+}
+h1{
+	margin-left: 500px;
+}
+.tekst{
+	margin-left: 500px;
+	font-size: 20px;
+}
